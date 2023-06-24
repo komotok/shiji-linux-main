@@ -1,1 +1,1 @@
-# shiji-linux-main
+#Project Shiji Linux Main Package
